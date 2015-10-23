@@ -1,0 +1,6 @@
+**/output_log.log
+**/err_log.log
+**/.forever/console_log.log
+
+./output_log.log
+./err_log.log

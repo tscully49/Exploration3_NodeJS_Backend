@@ -1,0 +1,27 @@
+connection successful
+[0mGET / [32m200 [0m124.102 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m56.830 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m9.989 ms - 1480[0m
+connection successful
+[0mGET / [36m304 [0m69.542 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m18.009 ms - -[0m
+[0mGET / [36m304 [0m3.073 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.720 ms - -[0m
+[0mGET /todos/ [32m200 [0m101.954 ms - 324[0m
+[0mGET /todos/ [32m200 [0m3.688 ms - 324[0m
+[0mGET /todos/ [32m200 [0m1.964 ms - 324[0m
+[0mGET /todos/ [32m200 [0m1.644 ms - 324[0m
+[0mGET /todos/ [32m200 [0m10.592 ms - 324[0m
+[0mPOST /todos/ [32m200 [0m138.208 ms - 138[0m
+[0mGET /todos/ [32m200 [0m2.337 ms - 463[0m
+[0mGET /x [33m404 [0m2.305 ms - 1480[0m
+[0mGET http://testp2.czar.bielawa.pl/testproxy.php [33m404 [0m1.508 ms - 1480[0m
+[0mGET / [36m304 [0m0.976 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.356 ms - -[0m
+[0mGET / [36m304 [0m1.608 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.351 ms - -[0m
+[0mGET /todos/ [32m200 [0m11.294 ms - 463[0m
+[0mGET /todos/ [32m200 [0m4.270 ms - 463[0m
+[0mGET /todos/562859b4f98b75333db70f1c [32m200 [0m12.553 ms - 143[0m
+[0mGET /todos/ [32m200 [0m10.630 ms - 463[0m
+connection successful
