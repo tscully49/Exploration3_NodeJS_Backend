@@ -1,0 +1,1 @@
+sudo forever start -ao output_log.log -e err_log.log -l console_log.log -wd ./bin/www
